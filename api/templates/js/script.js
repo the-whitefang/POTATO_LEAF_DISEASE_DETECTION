@@ -3,7 +3,7 @@ function generateOutput() {
 
     const leafclass = document.getElementById("leafclass");
     const leafcnf = document.getElementById("leafcnf");
-    // fetch data from  api
+    // fetch data from api
 
     
 }
