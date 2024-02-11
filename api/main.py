@@ -10,7 +10,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
 
-template = Jinja2Templates(directory="templates")  #register template engine
+template = Jinja2Templates(directory="templates")  # register template engine
 
 app = FastAPI()
 # CORS middleware configuration
