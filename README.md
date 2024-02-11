@@ -5,4 +5,4 @@ providing early disease detection but also contributes to sustainable agricultur
 expertise in agricultural science, image processing, and machine learning, making it a valuable and impactful endeavor for the agricultural sector.
 
 
-
+![Home_Page](https://github.com/the-whitefang/POTATO_LEAF_DISEASE_DETECTION/assets/120459249/fd30ddb9-fd40-43e1-a645-9368254ddb26)
